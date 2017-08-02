@@ -1,0 +1,11 @@
+This layer depends on:
+
+URI: git://git.yoctoproject.org/poky
+branch: jethro
+revision: HEAD
+
+URI: https://github.com/netmodule/meta-nmrouter.git
+branch: jethro
+revision: HEAD
+
+This layer adds some additional recipes for the use with meta-nmrouter, it is not meant to be used in production!
